@@ -11,3 +11,4 @@ class Dado:
     
     def __str__(self):
         return str(self.dado)
+#oaisjdasijdasoijdasoidjdasoijdasoidjasoidjasdoijasdiojasdoiajsdoiajsdoijasdoij
