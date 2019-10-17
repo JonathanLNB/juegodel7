@@ -19,3 +19,6 @@ class Jugador:
     
     def getJugada(self):
         return self.jugada
+
+
+        #iodjaodijasoidjasoidjasoijdasoijdasosijdaoij
